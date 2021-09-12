@@ -1,15 +1,15 @@
 **| [Home]() | [Code review]() | [Enhancement One]() | [Enhancement Two]() | [Enhancement Three]() |**
 <br><br>
 
-## Introduction
+### Introduction
 
 Text...
 
-## Educational Strengths
+### Educational Strengths
 
 Text...
 
-## Portfolio Summary
+### Portfolio Summary
 
 Text...
 
