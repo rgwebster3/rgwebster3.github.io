@@ -3,7 +3,6 @@
 <hr>
 
 ### Code Review
-<br>
 
 <div align="justify">
 I chose my artifact from my CS-410 Software Reverse Engineering course. It is a client management program that we reverse-engineered from assembly code. This is a code review of that program.</div>
