@@ -1,15 +1,14 @@
-<div align="justify">
 <hr>
 **| [Home](https://rgwebster3.github.io/index.html) | [Code review]() | [Enhancement One]() | [Enhancement Two]() | [Enhancement Three]() |**
 <hr>
-</div>
 
 ### Code Review
 <br>
 
 <div align="justify">
-I chose my artifact from my CS-410 Software Reverse Engineering course. It is a client management program that we reverse-engineered from assembly code. This is a code review of that program.
-
+I chose my artifact from my CS-410 Software Reverse Engineering course. It is a client management program that we reverse-engineered from assembly code. This is a code review of that program.</div>
+<br>
+<div align="justify">
 In this code review, I will speak to the existing functionality, code analysis, and enhancements for each category of software design and engineering, algorithms and data structure, and databases.
 </div>
   
