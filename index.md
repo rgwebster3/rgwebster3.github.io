@@ -3,15 +3,15 @@
 <hr>
 
 ## Introduction
-
+<br>
 Text...
 
 ## Educational Strengths
-
+<br>
 Text...
 
 ## Portfolio Summary
-
+<br>
 Text...
 
 
