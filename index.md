@@ -1,15 +1,16 @@
+<hr>
 **| [Home]() | [Code review](https://rgwebster3.github.io/code_review.html) | [Enhancement One]() | [Enhancement Two]() | [Enhancement Three]() |**
-<br><br>
+<hr><br>
 
-### Introduction
-
-Text...
-
-### Educational Strengths
+## Introduction
 
 Text...
 
-### Portfolio Summary
+## Educational Strengths
+
+Text...
+
+## Portfolio Summary
 
 Text...
 
