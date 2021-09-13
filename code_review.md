@@ -10,7 +10,7 @@ In this code review, I will speak to the existing functionality, code analysis, 
 
 <br>
 
-<iframe width="550" height="300" src="https://www.youtube.com/embed/xkQD2hQf_64" frameborder="0" allow="autoplay; encrypted-media" allowfullscreen=""> </iframe>
+<iframe width="580" height="350" src="https://www.youtube.com/embed/xkQD2hQf_64" frameborder="0" allow="autoplay; encrypted-media" allowfullscreen=""> </iframe>
 
 
 
