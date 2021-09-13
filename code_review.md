@@ -1,5 +1,6 @@
+<hr>
 **| [Home](https://rgwebster3.github.io/index.html) | [Code review]() | [Enhancement One]() | [Enhancement Two]() | [Enhancement Three]() |**
-<hr><br>
+<hr>
 
 ## Code Review
 
