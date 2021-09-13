@@ -9,8 +9,6 @@ I chose my artifact from my CS-410 Software Reverse Engineering course. It is a 
 
 In this code review, I will speak to the existing functionality, code analysis, and enhancements for each category of software design and engineering, algorithms and data structure, and databases.
 
-<br>
-
 <iframe width="550" height="300" src="https://www.youtube.com/embed/xkQD2hQf_64" frameborder="0" allow="autoplay; encrypted-media" allowfullscreen=""> </iframe>
 
 
