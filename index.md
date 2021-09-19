@@ -1,5 +1,5 @@
 <hr>
-**| [Home]() | [Code review](https://rgwebster3.github.io/code_review.html) | [Enhancement One]() | [Enhancement Two]() | [Enhancement Three]() |**
+**| [Home]() | [Code review](https://rgwebster3.github.io/code_review.html) | [Enhancement One](https://rgwebster3.github.io/enhancement_one.html) | [Enhancement Two]() | [Enhancement Three]() |**
 <hr>
 
 ### Introduction
