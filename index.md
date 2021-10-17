@@ -10,9 +10,15 @@ Although challenging to decide, there are several courses I attended that were i
 <br><br>
 This portfolio consists of three milestones in the categories of software design and engineering, algorithm and data structures, and database. My artifact for all three categories is the client management program from my CS-410 Software Reverse Engineering course. Milestone one, software design and engineering,  showcases my skill to convert the program from C++ to Python and included feature enhancements to add and delete clients. I also showcase my skills to developed a user interface to make the program more functional. Milestone two, algorithm and data structures, showcases my skill to improve the program efficiency by utilizing a list to manage the client list rather than hardcoded string variable assignments. Milestone three, database, showcases my skill as I create and connect to a SQLITE3 database. In this milestone, I first look to see if the database has been created in the user's temp folder. If it does not I create a database, load objects, and initialize the datasets.
 <br><br>
-### Screenshots
 
-## C++ Program
+### Screenshots
+<img src="https://rgwebster3.github.io/C++ Program.PNG" alt="C++ Program">
+<img src="https://rgwebster3.github.io/Python Program Main.PNG" alt="Python Program Main">
+<img src="https://rgwebster3.github.io/Python Program Menu.PNG" alt="Python Program Menu">
+<img src="https://rgwebster3.github.io/Python Program Client List.PNG" alt="Python Program Client List">
+          
+          
+### C++ Program
 
 
 
