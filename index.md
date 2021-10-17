@@ -30,4 +30,3 @@ Converted Python Code Base Sample<br><br>
 <img src="https://rgwebster3.github.io/Python Sample.PNG" alt="Python Samplem">
 
 Repository - **[Client Management App Final](https://github.com/rgwebster3/CS499-Final)**
-
