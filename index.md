@@ -15,7 +15,7 @@ This portfolio consists of three milestones in the categories of software design
 <img src="https://rgwebster3.github.io/C++ Program.PNG" alt="C++ Program">
 <img src="https://rgwebster3.github.io/Python Program Main.PNG" alt="Python Program Main">
 <img src="https://rgwebster3.github.io/Python Program Menu.PNG" alt="Python Program Menu">
-<img src="https://rgwebster3.github.io/Python Program Client List.PNG" alt="Python Program Client List">
+<img src="https://rgwebster3.github.io/Python Program List Client.PNG" alt="Python Program List Client">
           
           
 ### C++ Program
