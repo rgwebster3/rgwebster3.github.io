@@ -19,12 +19,15 @@ Client Manegement App Python<br><br>
 <img src="https://rgwebster3.github.io/Python Program Main.PNG" alt="Python Program Main">
 <img src="https://rgwebster3.github.io/Python Program Menu.PNG" alt="Python Program Menu">
 <img src="https://rgwebster3.github.io/Python Program List Client.PNG" alt="Python Program List Client">
-          
-          
-### C++ Program
-
-
-
+<img src="https://rgwebster3.github.io/Python Program Edit Client.PNG" alt="Python Program Edit Client">
+<img src="https://rgwebster3.github.io/Python Program Add Client.PNG" alt="Python Program Add Client">
+<img src="https://rgwebster3.github.io/Python Program Delete Client.PNG" alt="Python Program Delete Client">
+<br><br>
+C++ Code Base Sample<br><br>     
+<img src="https://rgwebster3.github.io/C++ Sample.PNG" alt="C++ Sample">
+<br><br>
+Converted Python Code Base Sample<br><br>
+<img src="https://rgwebster3.github.io/Python Sample.PNG" alt="Python Samplem">
 
 Repository - **[Client Management App Final](https://github.com/rgwebster3/CS499-Final)**
 
